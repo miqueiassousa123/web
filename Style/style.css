@@ -1,0 +1,207 @@
+body{
+   background-color:white;
+}
+
+a img.img-nav{
+    width: 30%;
+}
+
+    
+.navbar-brand{
+    width: 200px;
+    margin: 5px;
+    padding: 5px;
+    background-color: white;
+    
+}
+.bg-light{
+    color: #4cd137;
+    background-color:#ffffff!important;
+box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+    
+    
+}
+.navbar-light .navbar-nav .nav-link{
+    
+    color: #44bd32;
+    font-size: 20px;
+}
+
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #dc3545; 
+}
+
+.dropdown-item{
+     color: #44bd32;
+}
+.row-edit{
+    
+    margin-top: 20px;
+}
+.jumbotron{
+    text-align: center;
+    margin: 10px;
+    padding: 15px;
+    background-color: white;
+}
+
+.newsextion{
+    background-color:white;
+    margin-top: 10px;
+    padding: 2rem;
+    
+}
+.col-bnt{
+    margin: 2rem;
+    
+}
+.bnt-button{
+    
+display: block;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5%;
+    background-color: #7f8fa6;
+    border-color: #7f8fa6;
+    font-size: 20px;
+    color: white;
+}
+
+.modalContent{
+    color:#2ecc71;
+    display: block;
+    margin-left: 150px;
+    text-align: center;
+    
+    
+}
+.modal-body{
+   background-color: #f5f6fa; 
+    margin: 2rem;
+}
+.modalImg{
+    display: block;
+    margin: auto;
+    
+}
+.formWrapper{
+    padding: 2rem;
+    background-color: #f5f6fa;
+    margin-top: 2rem;
+}
+
+.modal-bnt{
+    display: block;
+    margin: auto;
+}
+.img-gal-row{
+    
+    padding: 1rem;
+    
+}
+
+.img-second-part{
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding: 1rem;
+   
+}
+.img-col{
+    
+     background-color:#f5f6fa;
+    padding: 1rem;
+    
+}
+.btn-outline-danger{
+    color: white;
+    background-color: #7f8fa6;
+    display: block;
+    margin: auto;
+    width: 45%;
+    font-size: 20px;
+    border-color: #7f8fa6;
+
+}
+
+.btn-outline-danger:hover{
+    background-color: #273c75;
+    border-color: #7f8fa6;
+}
+
+.modal-body{
+    padding: 0px;
+    margin: 15px;
+}
+
+.btn-video{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+.bg-light-footer{
+    padding: 1rem;
+    margin: 1rem;
+    background-color: #ecf0f1;
+}
+.footrow{
+    
+padding: 15px;
+    
+}
+.endPage{ 
+    
+   display: block;
+    margin:auto;
+    padding: 2rem;
+    text-align:justify;
+    font-size: 20px;
+    background-color: #7f8c8d;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+    color:whitw;
+    
+}
+.endPageIcon{
+    
+    display: block;
+    margin: auto;
+    
+}
+.fa-facebook-square{
+    
+    color: #3b5998;
+    padding: 1rem;
+    margin-left: 30px;  
+}
+.fa-google{
+    color: #c32f10;
+    padding: 1rem;
+    
+}
+.fa-instagram{
+    color:  #bc2a8d;
+    padding: 1rem;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
